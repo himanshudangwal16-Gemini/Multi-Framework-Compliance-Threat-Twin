@@ -1,0 +1,6 @@
+{
+  "name": "Compliance & Threat Twin AI",
+  "description": "Multi-Agent GRC compliance auditing and defensive threat simulation twin for cloud architectures, network configurations, and IaC profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
